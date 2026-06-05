@@ -7,23 +7,29 @@
 </h1>
 
 <p align="center">
-  <strong>One app. Every runtime.</strong>
+  <strong>Native App for Hermes and OpenClaw</strong>
 </p>
 
-RipDock is a native app for connecting to AI runtimes such as Hermes and OpenClaw from a single interface.
+RipDock is a native iPhone and Android app for connecting to Hermes, OpenClaw, and compatible AI runtimes from one local-first interface.
 
 Switch between personal, work, local, and cloud runtimes without being tied to a single provider.
 
+Website: https://ripdock.com
+
 ---
 
-### Coming Soon
+### News
+
+June 5, 2026 - RipDock's native SwiftUI iPhone app and Kotlin Android app have completed beta development and QA. We are preparing App Store and Google Play submissions.
+
+### Beta Launch
 
 - iPhone
-- iPad
 - Android
 
 ### Planned Platforms
 
+- iPad
 - macOS
 - Linux
 - Windows
@@ -36,3 +42,8 @@ Switch between personal, work, local, and cloud runtimes without being tied to a
 - File transfers
 - Native push notifications
 - Secure device pairing
+
+### Policies
+
+- Privacy Policy: https://ripdock.com/privacy
+- Terms of Service: https://ripdock.com/terms
