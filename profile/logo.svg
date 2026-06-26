@@ -1,0 +1,38 @@
+<svg width="568" height="156" viewBox="0 0 568 156" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">RipDock compact logo</title>
+  <desc id="desc">Balanced compact horizontal RipDock logo with the circular dock symbol and RipDock wordmark for everyday product use.</desc>
+  <defs>
+    <style>
+      .blue { stroke: #2F80FF; }
+      .ink { fill: #0B1020; }
+      .white { fill: #FFFFFF; }
+    </style>
+  </defs>
+
+  <g id="symbol" transform="translate(16 12) scale(0.78)">
+    <circle cx="84" cy="84" r="82" fill="#0B1020"/>
+    <g id="dock-ring" class="blue" stroke-width="14" stroke-linecap="butt">
+      <path d="M84 12 A72 72 0 0 1 156 84"/>
+      <path d="M156 84 A72 72 0 0 1 84 156"/>
+      <path d="M84 156 A72 72 0 0 1 12 84"/>
+      <path d="M12 84 A72 72 0 0 1 84 12"/>
+    </g>
+    <g id="runtime-star" class="white">
+      <path d="M84 43
+        C88.8 66.7 101.3 79.2 125 84
+        C101.3 88.8 88.8 101.3 84 125
+        C79.2 101.3 66.7 88.8 43 84
+        C66.7 79.2 79.2 66.7 84 43Z"/>
+    </g>
+    <g id="nodes" class="white" stroke="#0B1020" stroke-width="6">
+      <circle cx="84" cy="12" r="17"/>
+      <circle cx="156" cy="84" r="17"/>
+      <circle cx="84" cy="156" r="17"/>
+      <circle cx="12" cy="84" r="17"/>
+    </g>
+  </g>
+
+  <g id="wordmark" transform="translate(177 28)">
+    <text x="0" y="76" class="ink" font-family="Inter, SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="86" font-weight="760" letter-spacing="-1">RipDock</text>
+  </g>
+</svg>
